@@ -40,7 +40,7 @@
 	"kv_namespaces": [
 		{
 			"binding": "CONFIG_KV",
-			"id": ""
+			"id": "f8356b05e8a540e4bf01e41adc8fc074"
 		}
 	],
 	"ratelimits": [
